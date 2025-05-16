@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-vanam",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "749d8027-7f1f-42f5-8c5c-da9ebd6d18ae",
+		"tenantId": "d6232405-b72b-4576-8e5e-f79ca5df1906"
+	}
+}
