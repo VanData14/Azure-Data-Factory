@@ -1,0 +1,9 @@
+{
+	"name": "vandataengineer-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c2d13c9-ea4b-4a5e-93bb-5262d2051266",
+		"tenantId": "d6232405-b72b-4576-8e5e-f79ca5df1906"
+	}
+}
